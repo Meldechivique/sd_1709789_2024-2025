@@ -62,3 +62,5 @@ Este trabalho consiste na implementação de uma aplicação baseada no modelo *
 ![Descrição da Imagem](SD/SERV2.png)
 
 ## Cliente
+![Descrição da Imagem](SD/CL1.png)
+![Descrição da Imagem](SD/CL2.png)
