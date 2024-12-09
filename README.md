@@ -64,3 +64,14 @@ Este trabalho consiste na implementação de uma aplicação baseada no modelo *
 ## Cliente
 ![Descrição da Imagem](SD/CL1.png)
 ![Descrição da Imagem](SD/CL2.png)
+
+Conclusão
+---
+O que foi feito
+Implementámos um sistema cliente-servidor utilizando sockets em Python.
+Criei uma aplicação funcional para calcular (x×y)modn.
+Avaliei o funcionamento com diferentes entradas.
+O que faltou
+Poderia ser adicionado tratamento de erros para garantir que os valores enviados pelo cliente são válidos.
+O servidor poderia suportar múltiplos clientes ao mesmo tempo usando threads.
+
