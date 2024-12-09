@@ -13,7 +13,7 @@ Este trabalho consiste na implementação de uma aplicação baseada no modelo *
 ## Arquitetura do Trabalho
 
 ### Representação Gráfica
-**[Inserir imagem do diagrama de blocos aqui]**
+**[SD/Diagrama.png]**
 
 ### Diagrama de Blocos
 1. **Cliente** recolhe os números \(x\), \(y\) e \(n\) do utilizador e envia-os para o **Servidor**.
